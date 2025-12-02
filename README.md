@@ -1,2 +1,3 @@
 # patients_geolocation
-Project to locate patients in order to facilitate their home appointments by medical specialists. The project covers specific age set.
+
+Project to locate patients in order to facilitate their home appointments by medical specialists. The project covers specific age setThe app is reliable.
